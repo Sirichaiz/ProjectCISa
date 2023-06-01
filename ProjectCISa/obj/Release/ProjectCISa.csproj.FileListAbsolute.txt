@@ -1,0 +1,72 @@
+C:\Users\Sirichaiz Kaenchaiz\Documents\Visual Studio 2017\Projects\ProjectCISa\ProjectCISa\bin\Release\CISa.exe.config
+C:\Users\Sirichaiz Kaenchaiz\Documents\Visual Studio 2017\Projects\ProjectCISa\ProjectCISa\bin\Release\CISa.exe.manifest
+C:\Users\Sirichaiz Kaenchaiz\Documents\Visual Studio 2017\Projects\ProjectCISa\ProjectCISa\bin\Release\CISa.application
+C:\Users\Sirichaiz Kaenchaiz\Documents\Visual Studio 2017\Projects\ProjectCISa\ProjectCISa\bin\Release\CISa.exe
+C:\Users\Sirichaiz Kaenchaiz\Documents\Visual Studio 2017\Projects\ProjectCISa\ProjectCISa\bin\Release\CISa.pdb
+C:\Users\Sirichaiz Kaenchaiz\Documents\Visual Studio 2017\Projects\ProjectCISa\ProjectCISa\bin\Release\Excel.dll
+C:\Users\Sirichaiz Kaenchaiz\Documents\Visual Studio 2017\Projects\ProjectCISa\ProjectCISa\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Sirichaiz Kaenchaiz\Documents\Visual Studio 2017\Projects\ProjectCISa\ProjectCISa\bin\Release\Excel.pdb
+C:\Users\Sirichaiz Kaenchaiz\Documents\Visual Studio 2017\Projects\ProjectCISa\ProjectCISa\obj\Release\ProjectCISa.csprojAssemblyReference.cache
+C:\Users\Sirichaiz Kaenchaiz\Documents\Visual Studio 2017\Projects\ProjectCISa\ProjectCISa\obj\Release\ProjectCIS.frmMain.resources
+C:\Users\Sirichaiz Kaenchaiz\Documents\Visual Studio 2017\Projects\ProjectCISa\ProjectCISa\obj\Release\CISA.Properties.Resources.resources
+C:\Users\Sirichaiz Kaenchaiz\Documents\Visual Studio 2017\Projects\ProjectCISa\ProjectCISa\obj\Release\ProjectCISa.csproj.GenerateResource.cache
+C:\Users\Sirichaiz Kaenchaiz\Documents\Visual Studio 2017\Projects\ProjectCISa\ProjectCISa\obj\Release\ProjectCISa.csproj.CoreCompileInputs.cache
+C:\Users\Sirichaiz Kaenchaiz\Documents\Visual Studio 2017\Projects\ProjectCISa\ProjectCISa\obj\Release\CISa.exe.manifest
+C:\Users\Sirichaiz Kaenchaiz\Documents\Visual Studio 2017\Projects\ProjectCISa\ProjectCISa\obj\Release\CISa.application
+C:\Users\Sirichaiz Kaenchaiz\Documents\Visual Studio 2017\Projects\ProjectCISa\ProjectCISa\obj\Release\ProjectCISa.csproj.CopyComplete
+C:\Users\Sirichaiz Kaenchaiz\Documents\Visual Studio 2017\Projects\ProjectCISa\ProjectCISa\obj\Release\CISa.exe
+C:\Users\Sirichaiz Kaenchaiz\Documents\Visual Studio 2017\Projects\ProjectCISa\ProjectCISa\obj\Release\CISa.pdb
+D:\โครงการ CIS\ProjectCISa\ProjectCISa\bin\Release\CISa.exe.config
+D:\โครงการ CIS\ProjectCISa\ProjectCISa\bin\Release\CISa.exe.manifest
+D:\โครงการ CIS\ProjectCISa\ProjectCISa\bin\Release\CISa.application
+D:\โครงการ CIS\ProjectCISa\ProjectCISa\bin\Release\CISa.exe
+D:\โครงการ CIS\ProjectCISa\ProjectCISa\bin\Release\CISa.pdb
+D:\โครงการ CIS\ProjectCISa\ProjectCISa\bin\Release\Excel.dll
+D:\โครงการ CIS\ProjectCISa\ProjectCISa\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\โครงการ CIS\ProjectCISa\ProjectCISa\bin\Release\Excel.pdb
+D:\โครงการ CIS\ProjectCISa\ProjectCISa\obj\Release\ProjectCISa.csprojAssemblyReference.cache
+D:\โครงการ CIS\ProjectCISa\ProjectCISa\obj\Release\ProjectCIS.frmMain.resources
+D:\โครงการ CIS\ProjectCISa\ProjectCISa\obj\Release\CISA.Properties.Resources.resources
+D:\โครงการ CIS\ProjectCISa\ProjectCISa\obj\Release\ProjectCISa.csproj.GenerateResource.cache
+D:\โครงการ CIS\ProjectCISa\ProjectCISa\obj\Release\ProjectCISa.csproj.CoreCompileInputs.cache
+D:\โครงการ CIS\ProjectCISa\ProjectCISa\obj\Release\CISa.exe.manifest
+D:\โครงการ CIS\ProjectCISa\ProjectCISa\obj\Release\CISa.application
+D:\โครงการ CIS\ProjectCISa\ProjectCISa\obj\Release\ProjectCISa.csproj.CopyComplete
+D:\โครงการ CIS\ProjectCISa\ProjectCISa\obj\Release\CISa.exe
+D:\โครงการ CIS\ProjectCISa\ProjectCISa\obj\Release\CISa.pdb
+C:\Users\tom\Desktop\ProjectCISa\ProjectCISa\bin\Release\CISa.exe.config
+C:\Users\tom\Desktop\ProjectCISa\ProjectCISa\bin\Release\CISa.exe.manifest
+C:\Users\tom\Desktop\ProjectCISa\ProjectCISa\bin\Release\CISa.application
+C:\Users\tom\Desktop\ProjectCISa\ProjectCISa\bin\Release\CISa.exe
+C:\Users\tom\Desktop\ProjectCISa\ProjectCISa\bin\Release\CISa.pdb
+C:\Users\tom\Desktop\ProjectCISa\ProjectCISa\bin\Release\Excel.dll
+C:\Users\tom\Desktop\ProjectCISa\ProjectCISa\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\tom\Desktop\ProjectCISa\ProjectCISa\bin\Release\Excel.pdb
+C:\Users\tom\Desktop\ProjectCISa\ProjectCISa\obj\Release\ProjectCIS.frmMain.resources
+C:\Users\tom\Desktop\ProjectCISa\ProjectCISa\obj\Release\CISA.Properties.Resources.resources
+C:\Users\tom\Desktop\ProjectCISa\ProjectCISa\obj\Release\ProjectCISa.csproj.GenerateResource.cache
+C:\Users\tom\Desktop\ProjectCISa\ProjectCISa\obj\Release\ProjectCISa.csproj.CoreCompileInputs.cache
+C:\Users\tom\Desktop\ProjectCISa\ProjectCISa\obj\Release\CISa.exe.manifest
+C:\Users\tom\Desktop\ProjectCISa\ProjectCISa\obj\Release\CISa.application
+C:\Users\tom\Desktop\ProjectCISa\ProjectCISa\obj\Release\ProjectCISa.csproj.CopyComplete
+C:\Users\tom\Desktop\ProjectCISa\ProjectCISa\obj\Release\CISa.exe
+C:\Users\tom\Desktop\ProjectCISa\ProjectCISa\obj\Release\CISa.pdb
+C:\Users\HP Probook\source\repos\ProjectCISa\ProjectCISa\bin\Release\CISa.exe.config
+C:\Users\HP Probook\source\repos\ProjectCISa\ProjectCISa\bin\Release\CISa.exe.manifest
+C:\Users\HP Probook\source\repos\ProjectCISa\ProjectCISa\bin\Release\CISa.application
+C:\Users\HP Probook\source\repos\ProjectCISa\ProjectCISa\bin\Release\CISa.exe
+C:\Users\HP Probook\source\repos\ProjectCISa\ProjectCISa\bin\Release\CISa.pdb
+C:\Users\HP Probook\source\repos\ProjectCISa\ProjectCISa\bin\Release\Excel.dll
+C:\Users\HP Probook\source\repos\ProjectCISa\ProjectCISa\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\HP Probook\source\repos\ProjectCISa\ProjectCISa\bin\Release\Excel.pdb
+C:\Users\HP Probook\source\repos\ProjectCISa\ProjectCISa\obj\Release\ProjectCISa.csproj.AssemblyReference.cache
+C:\Users\HP Probook\source\repos\ProjectCISa\ProjectCISa\obj\Release\ProjectCISa.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP Probook\source\repos\ProjectCISa\ProjectCISa\obj\Release\ProjectCIS.frmMain.resources
+C:\Users\HP Probook\source\repos\ProjectCISa\ProjectCISa\obj\Release\CISA.Properties.Resources.resources
+C:\Users\HP Probook\source\repos\ProjectCISa\ProjectCISa\obj\Release\ProjectCISa.csproj.GenerateResource.cache
+C:\Users\HP Probook\source\repos\ProjectCISa\ProjectCISa\obj\Release\ProjectCISa.csproj.CoreCompileInputs.cache
+C:\Users\HP Probook\source\repos\ProjectCISa\ProjectCISa\obj\Release\CISa.exe.manifest
+C:\Users\HP Probook\source\repos\ProjectCISa\ProjectCISa\obj\Release\CISa.application
+C:\Users\HP Probook\source\repos\ProjectCISa\ProjectCISa\obj\Release\ProjectCISa.csproj.CopyComplete
+C:\Users\HP Probook\source\repos\ProjectCISa\ProjectCISa\obj\Release\CISa.exe
+C:\Users\HP Probook\source\repos\ProjectCISa\ProjectCISa\obj\Release\CISa.pdb
